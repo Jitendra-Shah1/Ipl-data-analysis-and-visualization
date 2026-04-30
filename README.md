@@ -57,5 +57,15 @@ This project analyzes the Indian Premier League (IPL) matches data from 2008 to 
 * DJ Bravo is the best death-over bowler with 102 wickets in overs 16–20
 * Mumbai Indians hold the record for the biggest win by runs — 146 runs vs Delhi Daredevils (2017)
 
+# Sample Visualization
+## Sixes Distribution Across Each Ball and Over
+![Sixes Heatmap](Images/Getting 6's in each vall of each over.png)
+
+## Toss Decision and Its Impact on Match Result
+![Toss Impact](Images/Impact of toss on Match Result.png)
+
+## Top 10 Batsmen by Strike Rate
+![Best Strike Rate](Images/Top 10 player with best strike rate.png)
+
 # Conclusion:
 This project explored 17 seasons of IPL data and uncovered meaningful patterns in team performance, player consistency, venue impact, and match trends. The analysis reveals that Mumbai Indians and Chennai Super Kings are the most dominant teams, while individual legends like Virat Kohli, AB de Villiers, and Chris Gayle have defined the batting era of IPL. On the bowling side, spinners like Yuzvendra Chahal have proven more effective than pacers in IPL conditions overall.
